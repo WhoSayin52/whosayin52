@@ -57,6 +57,6 @@ Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—
 
 - Strategy games & puzzles 🧩
 - Open-source contributions 🌍
-- Web, System, & Game programming 🎨
+- Low-Level programming 🎨
 - Fitness & lifting 🏋️‍♂️
 - Always learning new things 🚀
