@@ -51,7 +51,6 @@ Outside coding, I enjoy **strategy games**, **math puzzles**, and **fitness**—
 
 ## Where to find me
 <a href="mailto:HusseinAyadDev@pm.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/hussein-ayad-57aa7b392/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## 🌱 Interests
 
